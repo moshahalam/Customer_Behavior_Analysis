@@ -23,7 +23,7 @@ The dataset was cleaned and transformed before analysis.
 
 ## 🛠 Tools & Technologies
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data loading, cleaning, and EDA  
-- **SQL (PostgreSQL / MySQL / SQL Server)** – Data querying and aggregations  
+- **SQL (MySQL)** – Data querying and aggregations  
 - **Power BI** – Interactive dashboard development  
 - **Gamma** – Presentation creation  
 - **Jupyter Notebook** – Analysis workflow environment  
