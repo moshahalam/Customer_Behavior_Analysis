@@ -87,3 +87,24 @@ Developed an interactive dashboard featuring:
 These insights can support marketing strategies, pricing optimization, and customer retention initiatives.
 
 ---
+
+# 📁 Project Structure
+
+├── Data_cleaning.ipynb
+├── Customer_Behavior.sql
+├── PowerBI_Dashboard.pbix
+├── Final_Report.pdf
+└── README.md
+
+---
+
+# 💼 Project Value
+
+This project demonstrates:
+
+- End-to-end data analytics workflow  
+- Data cleaning & transformation expertise  
+- Advanced SQL querying skills  
+- Business insight generation  
+- Dashboard visualization proficiency  
+- Professional reporting & presentation skills  
